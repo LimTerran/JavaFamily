@@ -25,6 +25,10 @@
 
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
+
+[后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+
 # 目录(善用Ctrl+F)
 
 **注 : 没链接的是还没写**
@@ -34,6 +38,7 @@
   - 计算机操作系统与Linux
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
+  - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
@@ -42,9 +47,12 @@
   - [万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s/ktre8-C-cP_2HZxVW5fomQ)
   - [ConcurrentHashMap & Hashtable（文末送书）](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
   - [ArrayList](https://mp.weixin.qq.com/s/WoGclm7SsbURGigI3Mwr3w)
+  - [ArrayList源码解析，老哥，来一起复习一哈？](https://mp.weixin.qq.com/s/3PNWmtS-bEZgZjd9wyMiDA)
   - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
   - [面试官问我同步容器（如Vector）的所有操作一定是线程安全的吗？我懵了！](https://mp.weixin.qq.com/s/0cMrE87iUxLBw_qTBMYMgA)
   - [全网最透彻HTTPS（面试常问）](https://mp.weixin.qq.com/s/21JaXwdfSjItj5SgOwhapg)
+  - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
+  - [我就知道面试官接下来要问我 ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
   
 - 深入浅出JVM
 
@@ -67,6 +75,10 @@
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
+  - [死磕Synchronized源码](https://mp.weixin.qq.com/s/2ka1cDTRyjsAGk_-ii4ngw)
+  - [我画了35张图就是为了让你深入 AQS](https://mp.weixin.qq.com/s/trsjgUFRrz40Simq2VKxTA)
+  - [终于有人把 CountDownLatch，CyclicBarrier，Semaphore 说明白了!](https://mp.weixin.qq.com/s/TDw7GnzDw5FK3RWwkIzzZA)
+  - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
   
 - 常用工具集
 
@@ -88,14 +100,18 @@
 - 必会框架
 
   - Spring全家桶以及源码分析
+  - [一分钟带你玩转 Spring IoC](https://mp.weixin.qq.com/s/WpRSitDqtgOuU9GnI1-HDw)
+  - [Spring事务传播行为](https://mp.weixin.qq.com/s/IglQITCkmx7Lpz60QOW7HA)
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
+  - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   - [分布式锁之Zookeeper](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
+  - [Zookeeper之ZAB协议](https://mp.weixin.qq.com/s/k0zAExTvMsrugCaNJxs7hQ)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
@@ -140,6 +156,7 @@
   - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
+  - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
   
 - 大数据
 
@@ -191,8 +208,9 @@
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
   
-- 面试真题
-
+- 面试真题&面经分享
+    
+  - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)  
   - [二本 两年经验读者 阿里P6面经](https://mp.weixin.qq.com/s/WOS6HMdt1-mAGuLiC30_-Q)
   - [3 年经验的 Java 后端妹子，横扫阿里、滴滴、美团，看完面经我觉得敖丙是垃圾！](https://mp.weixin.qq.com/s/oAnGGBkre7Z4VkhME-TgzQ)
   - [2020 字节跳动后端面经分享！已拿 offer!](https://mp.weixin.qq.com/s/hr2pDs2wsiHQuDzW7jmOow)
@@ -212,9 +230,11 @@
   - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)
   - [Java后端实习面经，电子科大大三读者投稿！看了之后感触颇深！很开心！](https://mp.weixin.qq.com/s/ttKI82_CQdMmxoBw8TS92g)
   - [敖丙读者只复习了半年，怒拿字节跳动Offer](https://mp.weixin.qq.com/s/g6qFbEWfJeahzuzjECuvDg)
+  - [敖丙读者一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸阿里云 ！](https://mp.weixin.qq.com/s/F2TiFw-LYFXMRj_hsD-TIw)
   
 - 程序人生系列
-
+  
+  - [大学个人经历 | 如诗的青春](https://mp.weixin.qq.com/s/FJC2uEg9o56dqCPijgizFA)
   - [蘑菇街裁员说明 海阔凭鱼跃，天高任鸟飞](https://mp.weixin.qq.com/s/JB6CT4SfOg8e9lhkiWwZNg)
   - [我知道互联网不相信眼泪，但是敖丙今天还是没忍住](https://mp.weixin.qq.com/s/UC6NsEFlNfqMdEkzvHxKRA)
   - [2020无畏年少青春，迎风潇洒前行](https://mp.weixin.qq.com/s/66ZDj60KPEfohHg0g8Cggw)
@@ -226,18 +246,23 @@
   - [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
   - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
   - [50天全网2W粉，感谢坚持！](https://mp.weixin.qq.com/s/_5tVdE9oFPBUK3Z0gKH26g)
-  - [恰饭道歉](https://mp.weixin.qq.com/s/T-SNohqpF01NT0_GUiQHxQ)
   - [MacBook Pro 入手一年了，到底香不香？](https://mp.weixin.qq.com/s/SKzzAT-jBZ2l2R1Evr75ig)
+  - [【互联网寒冬】经历裁员，拿20W被迫去大厂](https://mp.weixin.qq.com/s/0WurpFJlZQtjjdleGPK0Cw)
+  - [【相亲】95年高颜值妹子，喜欢上进的男生](https://mp.weixin.qq.com/s/LCaZQAVL1DnihhngZ3Wq0w)
+  - [我的青春结束了](https://mp.weixin.qq.com/s/matyTWXuZ_qs9hGfAl9_NQ)
+  - [时间刺客--敖丙](https://mp.weixin.qq.com/s/wlfurOBpxeaf6iy7CtHRlA)
   
-
 - 日常生活
-
+  
+  - [敖丙参加了一场温州游资的婚礼](https://mp.weixin.qq.com/s/sM3hJe5z3_pCH-8GWs0iOA)
+  - [敖丙枯燥无味的假期，一直在吃狗粮](https://mp.weixin.qq.com/s/1jQnRCXdrUQzZInQmzABvA)
   - [送别了好友，敖丙跟你聊聊【离职】这个话题](https://mp.weixin.qq.com/s/pHcgkDvKfElRIVZGd4Kzng)
   - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
   - [敖丙我参加了蘑菇街年会，流了一晚上鼻血](https://mp.weixin.qq.com/s/fkByjmdaqdw0TELDzdm5mQ)
   - [曾经我们并肩作战，敬未来一杯，敬资本一杯](https://mp.weixin.qq.com/s/s9HPYYi9VfYMt7UGCTqWVw)
   - [敖丙我写了一个新手都写不出的低级bug，被骂惨了。](https://mp.weixin.qq.com/s/yB9s771gDz6oMKZsUnJuyg)
   - [敖丙的第一次相亲，还没开始，就已经结束了。](https://mp.weixin.qq.com/s/mLLbpnI1pVnlUzL7H3EuNQ)
+  - [我的母亲](https://mp.weixin.qq.com/s/yGcgvp9s18CERp9nx2iigw)
   
 - 过年特辑
 
@@ -265,6 +290,8 @@
 # MyAll
 
 2019个人经历：https://juejin.im/post/5df603bbf265da33c90b41d4
+
+大学个人经历：https://mp.weixin.qq.com/s/FJC2uEg9o56dqCPijgizFA
 
 公众号：三太子敖丙  
 
@@ -343,10 +370,14 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
-阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com       蘑菇街/其他岗位 : aobing@mogu.com 
+阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           
+
+字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
 
 
 ### 近期机会
+
+**天猫国际:**
 
 天猫国际是中国消费升级的第一跨境平台，是阿里经济体5年2000亿美金进口承诺的担纲。
 
@@ -365,6 +396,36 @@ CSDN：https://blog.csdn.net/qq_35190492
 有意请发简历到 joshua.liff@alibaba-inc.com
 
 要求：2020年11-2021年10本科及以上毕业生，理工科相关专业优先，有论文发表或者程序设计大赛、acm等算法比赛获奖的优先。
+
+**国际化电商基础链路团队:**
+
+
+- Vision：AE基础链路的Vision是打造全球化、灵动性的基础链路团队，构建一个完整的电商基础领域闭环。在这里你可以领略到完整的国际化电商体系的进化和发展，在整个电商基础领域的生命周期里可以任意选择发挥你的所长。只要你敢想，我们就敢一起干；
+
+- 领域：基于Siruis，Poloris中台架构体系，负责AE核心的交易、营销优惠、支付&结算、会员店铺、钱包等基础域国际化小前台体系建设，并构建差异化的国家站的整体业务解决方案；
+
+- 创新：基于AE跨境、本地化的多业务形态，小前台结合国际化中台的业务和技术策略，孵化创新业务与解决方案，如海外钱包解决方案、数字商品解决方案，助力海外业务多元化。联合算法赋能基础链路，创造更多结合算法能力的场景，如营销优惠，通过技术促进业务，更好的降成本促增收；
+
+- 挑战：我们的基础领域业务遍布全世界各个角落，每个国家都会带给我们不一样的挑战和机遇，在这里我们可以重新定义电商基础领域，实现基础链路领域国家差异化；
+
+
+岗位要求：
+
+- 3 年及以上使用 JAVA 开发的经验，JAVA 基础扎实，理解io、多线程、集合等基础框架，了解 JVM 原理；
+
+- 熟悉WEB开发，熟悉Servlet，MVC框架，具有扎实的数据结构与算法知识；
+
+- 对用过的开源框架，能了解到它的原理和机制；对 Spring、mybatis 等开源框架熟悉；
+
+- 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题；
+
+- 熟悉 Linux 操作系统和大型数据库（RDBMS, NoSQL, NewSQL）；对 sql 优化有丰富的经验；
+
+- 工作积极主动、很好的沟通能力、学习能力，适应能力好；能接受全栈任务，具备耐心和细心的品质。
+
+- 英语流利为加分项
+
+有意请发简历到 fightingcrap@gmail.com
 
 # 赞赏码
 
